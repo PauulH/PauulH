@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PauulH
 - 👀 I’m interested in making stuff. Especially if it involves a microcontroller.
 - 🌱 I’m currently learning how use GitHub for the first time :)
-- 📫 How to reach me ...
+- 📫 How to reach me - paul.hatfield12@gmail.com
 - ⚡ Fun fact: I love RC aircraft and fishing. 
 
 <!---
